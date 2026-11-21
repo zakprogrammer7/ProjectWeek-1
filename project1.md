@@ -4,6 +4,10 @@ This document summarizes the user management, shared directory permissions, and 
 
 ---
 
+![alt text](<Screenshot 2026-11-21 180813.png>)
+
+![alt text](<Screenshot 2026-11-21 174327.png>)
+
 ## 1. Users & Groups
 
 ### Users (`/etc/passwd`)
